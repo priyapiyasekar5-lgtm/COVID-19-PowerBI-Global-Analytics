@@ -41,3 +41,17 @@ The repository includes screenshots of the Power BI dashboard for reference.
 ## 👩‍💻 Project Purpose
 
 This project was created to strengthen skills in data analysis, Power BI, data visualization, dashboard development, and analytical storytelling.
+
+## 📸 Dashboard Screenshots
+
+### 1. Landing Page
+![Landing Page](01-Landing-Page.png)
+
+### 2. Executive Dashboard
+![Executive Dashboard](02-Executive-Dashboard.png)
+
+### 3. Global & Geographic Analysis
+![Global & Geographic Analysis](03-Global-Geographic-Analysis.png)
+
+### 4. Pandemic Progression
+![Pandemic Progression](04-Pandemic-Progression.png)
